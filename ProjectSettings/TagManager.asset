@@ -9,6 +9,7 @@ TagManager:
   - ClickManager
   - GC
   - GoalTrigger
+  - AudioManager
   layers:
   - Default
   - TransparentFX
